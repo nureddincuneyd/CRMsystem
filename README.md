@@ -10,6 +10,8 @@ Hey, If you want support to me:
 </ol>
 <hr/>
 
-System language PHP and not it is not use Framework (I just didn't want it &#127773; ) 
+System language PHP and it is not use Framework ( I just didn't want it &#127773; ) 
 
 E-mail address : nureddincuneyd@hotmail.com
+
+Admin Panel in sistem Directory. In sql directory has all database create and patch commands. I think free Admin LTE version for Manage Panel. All html designs available for frontend.
