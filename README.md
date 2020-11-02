@@ -4,9 +4,9 @@ I'm developing this CRM system on PHP for hobbies. First I will develope this sy
 
 Hey, If you want support to me:
 <ol>
-<li>clone repo</li>
-<li>develope our project</li>
-<li>push repository and maybe send mail to me</li>
+<li>Clone repo</li>
+<li>Develope our project</li>
+<li>Push repository and maybe send mail to me</li>
 </ol>
 <hr/>
 
